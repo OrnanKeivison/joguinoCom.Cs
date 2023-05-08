@@ -1,0 +1,15 @@
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\bin\Debug\net6.0\joguinoCom.Cs.exe
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\bin\Debug\net6.0\joguinoCom.Cs.deps.json
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\bin\Debug\net6.0\joguinoCom.Cs.runtimeconfig.json
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\bin\Debug\net6.0\joguinoCom.Cs.dll
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\bin\Debug\net6.0\joguinoCom.Cs.pdb
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\joguinoCom.Cs.csproj.AssemblyReference.cache
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\joguinoCom.Cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\joguinoCom.Cs.AssemblyInfoInputs.cache
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\joguinoCom.Cs.AssemblyInfo.cs
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\joguinoCom.Cs.csproj.CoreCompileInputs.cache
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\joguinoCom.Cs.dll
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\refint\joguinoCom.Cs.dll
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\joguinoCom.Cs.pdb
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\joguinoCom.Cs.genruntimeconfig.cache
+D:\Users\20221174010009\Documents\GitHub\joguinoCom.Cs\obj\Debug\net6.0\ref\joguinoCom.Cs.dll
